@@ -17,8 +17,15 @@ header div{
     justify-content: center;
     align-items: center;
 }
+header div span {
+    font-size: 2rem;
+    font-family: 'Parkinsans', sans-serif;
+    font-weight: bold;
+    color: #0b2742;
+    margin-left: 1rem;
+}
 header img{
-    height: 50px;
+    height: 100px;
 }
 nav ul {
     list-style: none;
@@ -65,14 +72,14 @@ form label {
 }
 
 form input, form select, form button {
-    width: 100%; /* Garante que todos os elementos ocupem a largura total do contêiner */
-    max-width: 400px; /* Define uma largura máxima */
-    padding: 0.5rem; /* Mantém o espaçamento interno */
-    margin-bottom: 1rem; /* Espaçamento entre os campos */
-    font-size: 16px; /* Tamanho consistente do texto */
-    border: 1px solid #ccc; /* Borda padrão */
-    border-radius: 5px; /* Bordas arredondadas */
-    box-sizing: border-box; /* Inclui o padding na largura total */
+    width: 100%; 
+    max-width: 400px; 
+    padding: 0.5rem; 
+    margin-bottom: 1rem; 
+    font-size: 16px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    box-sizing: border-box; 
 }
 
 form button {
@@ -80,7 +87,7 @@ form button {
     color: #fff;
     border: none;
     cursor: pointer;
-    font-size: 16px; /* Consistência no texto do botão */
+    font-size: 16px; 
     font-weight: bold;
 }
 
