@@ -17,9 +17,13 @@
   - Permite que usuários se registrem como doadores ou refugiados.
   - Campos obrigatórios incluem: Nome, Email, Senha, Telefone e Tipo de Cadastro.
 
+![Captura de tela 2024-12-01 045718](https://github.com/user-attachments/assets/b0328967-3bde-4a43-ae5e-058063a0a91e)
+
 - **Login**:
   - Autenticação de usuários cadastrados.
   - Redireciona para a página inicial após login bem-sucedido.
+    
+![Captura de tela 2024-12-01 045756](https://github.com/user-attachments/assets/d4e4e7bb-adc4-4cc2-a161-eaa5349d3035)
 
 ---
 
