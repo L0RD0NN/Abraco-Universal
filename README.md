@@ -35,6 +35,7 @@
 - **Material Symbols** para ícones intuitivos.
 
 ---
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 ## Autores
 - [Igor Gustavo Mainardes](https://github.com/L0RD0NN)
