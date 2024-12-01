@@ -39,6 +39,7 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
+    height: 8vh;
 }
 
 form {
@@ -56,7 +57,7 @@ form label {
 }
 
 form input, form select, form button {
-    width: 100%;
+    width: 95%;
     padding: 0.5rem;
     margin-bottom: 1rem;
 }
@@ -70,4 +71,7 @@ form button {
 
 form button:hover {
     background-color: #555;
+}
+h2 {
+    text-align: center;
 }
