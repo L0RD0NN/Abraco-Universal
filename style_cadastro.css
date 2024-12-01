@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #0b2742;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -32,14 +32,14 @@ main {
 }
 
 footer {
-    background-color: #333;
+    background-color: #0b2742;
     color: #fff;
     text-align: center;
     padding: 1rem 0;
     position: relative;
     width: 100%;
     bottom: 0;
-    height: 5vh;
+    height: 8vh;
 }
 
 form {
@@ -57,21 +57,29 @@ form label {
 }
 
 form input, form select, form button {
-    width: 95%;
-    padding: 0.5rem;
-    margin-bottom: 1rem;
+    width: 100%; /* Garante que todos os elementos ocupem a largura total do contêiner */
+    max-width: 400px; /* Define uma largura máxima */
+    padding: 0.5rem; /* Mantém o espaçamento interno */
+    margin-bottom: 1rem; /* Espaçamento entre os campos */
+    font-size: 16px; /* Tamanho consistente do texto */
+    border: 1px solid #ccc; /* Borda padrão */
+    border-radius: 5px; /* Bordas arredondadas */
+    box-sizing: border-box; /* Inclui o padding na largura total */
 }
 
 form button {
-    background-color: #333;
+    background-color: #0b2742;
     color: #fff;
     border: none;
     cursor: pointer;
+    font-size: 16px; /* Consistência no texto do botão */
+    font-weight: bold;
 }
 
 form button:hover {
-    background-color: #555;
+    background-color: #6286a5;
 }
+
 h2 {
     text-align: center;
 }
