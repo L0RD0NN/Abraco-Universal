@@ -140,3 +140,19 @@ form button:hover {
     background-color: #555;
 }
 
+.imagens{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 50px;
+}
+.imagens img{
+    height: 300px;   
+}
+.contact-info {
+    display: flex;
+    align-items: center;
+}
+.contact-info span {
+    margin-right: 8px;
+}
