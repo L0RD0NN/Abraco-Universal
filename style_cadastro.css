@@ -37,7 +37,7 @@ header img{
 
 .logo {
     margin-right: 1rem;
-    width: 50px; /* Ajuste o tamanho conforme necessário */
+    width: 50px; 
     height: auto;
 }
 nav {
@@ -46,7 +46,7 @@ nav {
 .nav-link {
     display: flex;
     align-items: center;
-    font-size: 24px; /* Ajuste o tamanho conforme necessário */
+    font-size: 24px; 
 }
 
 nav ul {
@@ -97,14 +97,14 @@ form label {
 }
 
 form input, form select, form button {
-    width: 100%; /* Garante que todos os elementos ocupem a largura total do contêiner */
-    max-width: 400px; /* Define uma largura máxima */
-    padding: 0.5rem; /* Mantém o espaçamento interno */
-    margin-bottom: 1rem; /* Espaçamento entre os campos */
-    font-size: 16px; /* Tamanho consistente do texto */
-    border: 1px solid #ccc; /* Borda padrão */
-    border-radius: 5px; /* Bordas arredondadas */
-    box-sizing: border-box; /* Inclui o padding na largura total */
+    width: 100%; 
+    max-width: 400px; 
+    padding: 0.5rem; 
+    margin-bottom: 1rem; 
+    font-size: 16px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    box-sizing: border-box; 
 }
 
 form button {
@@ -112,7 +112,7 @@ form button {
     color: #fff;
     border: none;
     cursor: pointer;
-    font-size: 18px; /* Consistência no texto do botão */
+    font-size: 18px; 
     font-weight: bold;
     font-family: "Jost", sans-serif;
 
