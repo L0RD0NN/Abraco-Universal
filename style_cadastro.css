@@ -61,11 +61,12 @@ nav ul li {
     margin: 0 1rem;
 }
 
-nav ul li a {
-    color: #fff;
+header nav ul li a {
+    font-family: "Jost", sans-serif;
+    font-weight: bold;
     text-decoration: none;
+    color: #0b2742;
 }
-
 main {
     padding: 2rem;
 }
@@ -111,14 +112,18 @@ form button {
     color: #fff;
     border: none;
     cursor: pointer;
-    font-size: 16px; /* Consistência no texto do botão */
+    font-size: 18px; /* Consistência no texto do botão */
     font-weight: bold;
+    font-family: "Jost", sans-serif;
+
 }
 
 form button:hover {
     background-color: #6286a5;
 }
 
-h2 {
+main h2 {
     text-align: center;
+    font-family: "Jost", sans-serif;
+    color: #0b2742;
 }

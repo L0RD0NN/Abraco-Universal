@@ -5,6 +5,7 @@ body {
     background-color: #f4f4f4;
 }
 
+
 header {
     background-color: #bbb3b3;
     color: #fff;
@@ -83,6 +84,7 @@ form input, form select, form button {
 }
 
 form button {
+    font-family: "Jost", sans-serif;    ;
     background-color: #0b2742;
     color: #fff;
     border: none;
@@ -95,6 +97,8 @@ form button:hover {
     background-color: #6286a5;
 }
 
-h2 {
+main h2 {
+    font-family: "Jost", sans-serif;
     text-align: center;
+    color: #0b2742;
 }
