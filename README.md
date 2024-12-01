@@ -11,6 +11,7 @@
   - Links úteis para organizações internacionais de apoio a refugiados.
   - Contato direto com a ONG.
     
+![Captura de tela 2024-12-01 045527](https://github.com/user-attachments/assets/13b2bb79-ccb0-4a05-a1c4-6d9ab6728636)
 
 - **Cadastro**:
   - Permite que usuários se registrem como doadores ou refugiados.
