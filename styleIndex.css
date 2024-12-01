@@ -39,6 +39,10 @@ header div{
     margin: 0 auto;
     padding: 0 1rem;
 }
+.nav-icon {
+    vertical-align: middle;
+    margin-right: 5px; /* Ajuste o valor conforme necessário */
+}
 
 header div span {
     font-size: 2rem;
