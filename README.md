@@ -1,6 +1,3 @@
-
-<img src="https://github.com/user-attachments/assets/297c5dda-683b-4df7-a042-6a3d30aef3a6" alt="Logo" width="200"/>
-
 # 🌍 Abraço Universal
 
 **Abraço Universal** é um projeto web que busca criar uma rede de apoio para refugiados e imigrantes, oferecendo suporte na reconstrução de suas vidas com dignidade, segurança e esperança. A plataforma conecta pessoas a recursos essenciais, promove aprendizado de idiomas, facilita o contato com a ONG e gerencia doações.
@@ -13,6 +10,7 @@
   - Informações sobre a missão e valores da ONG.
   - Links úteis para organizações internacionais de apoio a refugiados.
   - Contato direto com a ONG.
+    
 
 - **Cadastro**:
   - Permite que usuários se registrem como doadores ou refugiados.
@@ -32,6 +30,11 @@
 - **Material Symbols** para ícones intuitivos.
 
 ---
+
+## Autores
+https://github.com/L0RD0NN
+https://github.com/leololeo630
+
 
 ## 📂 Estrutura de Arquivos
 
