@@ -1,5 +1,5 @@
 
-![Logo1](https://github.com/user-attachments/assets/8436fe2c-9ad1-4f68-9364-10014e81d4da)
+<img src="https://github.com/user-attachments/assets/297c5dda-683b-4df7-a042-6a3d30aef3a6" alt="Logo" width="200"/>
 
 # 🌍 Abraço Universal
 
