@@ -32,9 +32,8 @@
 ---
 
 ## Autores
-https://github.com/L0RD0NN
-https://github.com/leololeo630
-
+- [Igor Gustavo Mainardes](https://github.com/L0RD0NN)
+- [Leonardo Rodrigues de Oliveira](https://github.com/leololeo630)
 
 ## 📂 Estrutura de Arquivos
 
