@@ -1,0 +1,156 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+main {
+    padding: 2rem;
+}
+
+form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+form label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+form input, form button {
+    width: 100%; 
+    max-width: 600px; 
+    padding: 0.5rem; 
+    margin-bottom: 1rem; 
+    font-size: 16px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    box-sizing: border-box; 
+}
+
+form button {
+    background-color: #0b2742;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 18px; 
+    font-weight: bold;
+    font-family: "Jost", sans-serif;
+}
+
+form button:hover {
+    background-color: #6286a5;
+}
+
+#list-section {
+    max-width: 600px;
+    margin: 2rem auto 0;
+    padding: 1rem;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+#list-section h3 {
+    font-family: "Jost", sans-serif;
+    color: #0b2742;
+    margin-bottom: 1rem;
+}
+
+#search-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+#search-bar label {
+    margin-right: 0.5rem;
+    font-size: 16px;
+}
+
+#search-bar input {
+    flex: 1;
+    max-width: 300px;
+    padding: 0.5rem;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#search-bar button {
+    padding: 0.5rem 1rem;
+    font-size: 16px;
+    background-color: #0b2742;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 0.5rem;
+}
+
+#search-bar button:hover {
+    background-color: #6286a5;
+}
+
+#user-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 auto 1rem;
+    max-width: 600px;
+    text-align: left;
+}
+
+#user-list li {
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#user-list li span {
+    display: block;
+    font-size: 14px;
+}
+
+.delete-user {
+    background-color: #d9534f;
+    color: #fff;
+    border: none;
+    padding: 0.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.delete-user:hover {
+    background-color: #c9302c;
+}
+
+#list-controls {
+    text-align: center;
+}
+
+#list-controls button {
+    padding: 0.5rem 1rem;
+    font-size: 16px;
+    background-color: #0b2742;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#list-controls button:hover {
+    background-color: #6286a5;
+}
