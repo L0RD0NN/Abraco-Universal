@@ -31,6 +31,8 @@
   - Armazenamento de dados no Local Storage.
   - Funcionalidades de limpar campos, excluir um usuário, excluir todos os usuários e pesquisar usuários.
 
+![Captura de tela 2024-12-01 050000](https://github.com/user-attachments/assets/admin-screenshot.png)
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
