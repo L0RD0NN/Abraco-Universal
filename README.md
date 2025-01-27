@@ -25,6 +25,12 @@
     
 ![Captura de tela 2024-12-01 045756](https://github.com/user-attachments/assets/d4e4e7bb-adc4-4cc2-a161-eaa5349d3035)
 
+- **Admin**:
+  - Cadastro de novos usuários com nome e email.
+  - Visualização de usuários cadastrados em uma lista.
+  - Armazenamento de dados no Local Storage.
+  - Funcionalidades de limpar campos, excluir um usuário, excluir todos os usuários e pesquisar usuários.
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -33,6 +39,7 @@
 - **CSS3** para estilização e design responsivo.
 - **Google Fonts** para fontes personalizadas.
 - **Material Symbols** para ícones intuitivos.
+- **JavaScript** para manipulação do DOM e Web Storage.
 
 ---
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
@@ -47,11 +54,15 @@
 ├── index.html            # Página inicial
 ├── cadastro.html         # Página de cadastro
 ├── login.html            # Página de login
+├── admin.html            # Página de administração
 ├── styleIndex.css        # Estilo para a página inicial
 ├── style_cadastro.css    # Estilo para a página de cadastro
 ├── style_login.css       # Estilo para a página de login
+├── style_admin.css       # Estilo para a página de administração
+├── script.js             # Script JavaScript para funcionalidades
 ├── figs/                 # Diretório de imagens e logos
 │   ├── Logo1.png
 │   ├── Refugiado1.jpeg
 │   ├── Refugiado2.jpeg
 │   ├── Refugiado3.jpeg
+│   ├── Icone2.ico
