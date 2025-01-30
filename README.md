@@ -32,6 +32,7 @@
   - Funcionalidades de limpar campos, excluir um usuário, excluir todos os usuários e pesquisar usuários.
 
 ---
+![imagem](https://github.com/L0RD0NN/Abraco-Universal/issues/1#issue-2819679522)
 
 ## 🛠️ Tecnologias Utilizadas
 
