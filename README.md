@@ -31,8 +31,6 @@
   - Armazenamento de dados no Local Storage.
   - Funcionalidades de limpar campos, excluir um usuário, excluir todos os usuários e pesquisar usuários.
   
-![Image](https://github.com/user-attachments/assets/230e848d-9609-4c91-b1fc-bdf8902bf7cd)
-
 ![Captura de tela 2025-01-26 233215](https://github.com/user-attachments/assets/5291ee61-a6b5-4226-862b-4070d564af53)
 
 
