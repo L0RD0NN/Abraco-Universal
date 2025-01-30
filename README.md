@@ -30,6 +30,8 @@
   - Visualização de usuários cadastrados em uma lista.
   - Armazenamento de dados no Local Storage.
   - Funcionalidades de limpar campos, excluir um usuário, excluir todos os usuários e pesquisar usuários.
+  
+![Image](https://github.com/user-attachments/assets/230e848d-9609-4c91-b1fc-bdf8902bf7cd)
 
 ---
 
