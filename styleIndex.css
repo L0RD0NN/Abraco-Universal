@@ -39,6 +39,11 @@ header div{
     margin: 0 auto;
     padding: 0 1rem;
 }
+.material-symbols-outlined {
+    vertical-align: middle; 
+    margin-right: 5px; 
+}
+
 .nav-icon {
     vertical-align: middle;
     margin-right: 5px; 
