@@ -31,8 +31,10 @@
   - Armazenamento de dados no Local Storage.
   - Funcionalidades de limpar campos, excluir um usuário, excluir todos os usuários e pesquisar usuários.
 
+![Captura de tela 2025-01-26 233215](https://github.com/user-attachments/assets/5291ee61-a6b5-4226-862b-4070d564af53)
+
+
 ---
-![imagem](https://github.com/L0RD0NN/Abraco-Universal/issues/1#issue-2819679522)
 
 ## 🛠️ Tecnologias Utilizadas
 
